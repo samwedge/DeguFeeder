@@ -1,3 +1,6 @@
+//Sam Wedge 
+//samwedge.co.uk 
+
 #include <Servo.h>
  
 Servo feeder1;
